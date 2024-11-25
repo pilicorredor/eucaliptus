@@ -40,7 +40,7 @@ const Navbar = ({ username, role, handleLogout }) => {
         ))}
       </ul>
       <div className="nav-item-bottom">
-        <Link to="/" onClick={handleLogout}>
+        <Link to="/eucaliptus" onClick={handleLogout}>
           <Io5Icons.IoExit className="nav-menu-item-icon" />
           <span className="menu-text">Salir</span>
         </Link>

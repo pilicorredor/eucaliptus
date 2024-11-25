@@ -55,8 +55,7 @@ const AppContent = () => {
     };
 
     useEffect(() => {
-        if (location.pathname === '/' ||
-            location.pathname === '/eucaliptus' ||
+        if (location.pathname === '/eucaliptus' ||
             location.pathname === '/config/login-to-change-password' ||
             location.pathname === '/config/send-email-password' ||
             location.pathname === '/config/check-token-password' ||
