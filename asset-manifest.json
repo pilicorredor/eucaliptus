@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eucaliptus/static/css/main.ba9907de.css",
-    "main.js": "/eucaliptus/static/js/main.40792c56.js",
+    "main.js": "/eucaliptus/static/js/main.5de5bc38.js",
     "static/js/453.c2b2afdb.chunk.js": "/eucaliptus/static/js/453.c2b2afdb.chunk.js",
     "static/media/FondoLogin.png": "/eucaliptus/static/media/FondoLogin.c566a8e8a2d195819924.png",
     "static/media/logo2.png": "/eucaliptus/static/media/logo2.e96f63fa0a6de49c9c78.png",
@@ -11,11 +11,11 @@
     "static/media/valuesImg.png": "/eucaliptus/static/media/valuesImg.3aa0581e17536724d2c3.png",
     "index.html": "/eucaliptus/index.html",
     "main.ba9907de.css.map": "/eucaliptus/static/css/main.ba9907de.css.map",
-    "main.40792c56.js.map": "/eucaliptus/static/js/main.40792c56.js.map",
+    "main.5de5bc38.js.map": "/eucaliptus/static/js/main.5de5bc38.js.map",
     "453.c2b2afdb.chunk.js.map": "/eucaliptus/static/js/453.c2b2afdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba9907de.css",
-    "static/js/main.40792c56.js"
+    "static/js/main.5de5bc38.js"
   ]
 }
